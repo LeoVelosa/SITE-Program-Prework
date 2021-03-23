@@ -5,7 +5,9 @@ Submitted by: Leo Velosa
 
 Time spent: 1 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/internship-prework-leo?path=script.js%3A1%3A0
+
+Link to page for game: https://internship-prework-leo.glitch.me/
 
 Required Functionality
 The following required functionality is complete:
